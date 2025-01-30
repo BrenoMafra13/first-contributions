@@ -1,6 +1,7 @@
 # Contributors
 
 - [Brahim](https://github.com/BrahimChatri)
+- [Breno Lopes Mafra] (https://github.com/BrenoMafra13)
 - [sanjeev muddala](https://github.com/rohitsanjeev)
 - [Cesar](https://github.com/cesarslv)
 - [CAN](https://github.com/lawinpyae)
